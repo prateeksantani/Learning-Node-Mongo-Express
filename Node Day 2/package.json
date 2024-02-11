@@ -1,0 +1,11 @@
+{
+  "name": "node-day-2",
+  "version": "1.0.0",
+  "description": "// Step 1: initialise the local repo by npm init to create a json file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
